@@ -5,3 +5,5 @@
 mehmet
 
 master branch'i deneme
+
+mehmet branch'i 2.deneme
